@@ -7,7 +7,7 @@ Core concepts of Civil Society Control Engineering and Numa Theory.
 - [Human Dignity](human-dignity.md)
 - [Independence](independence.md)
 - [Equality](equality.md)
-* [Freedom](freedom.md)
+- [Freedom](freedom.md)
 - [Civil Society](civil-society.md)
 - [Feudalism](feudalism.md)
 - [Modernity](modernity.md)
