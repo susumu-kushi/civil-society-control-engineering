@@ -152,3 +152,4 @@ Human beings must never be treated merely as objects.
 
 - [Civil Society Control Engineering](book-csce.md)
 - [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+- [Crime and Punishment](crime-and-punishment.md)
