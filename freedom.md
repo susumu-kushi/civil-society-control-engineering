@@ -55,7 +55,7 @@ Together, independence and equality create the conditions under which freedom ca
 * Equality
 * Civil Society
 * Numa Theory
-
+- [Civil Society](civil-society.md)
 ---
 
 ## Archive Mission
