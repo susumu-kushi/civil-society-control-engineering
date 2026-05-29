@@ -52,4 +52,4 @@ This archive exists to preserve the principles of civil society for future gener
 - [Civil Society Declaration](civil-society-declaration.md)
 - [Books](books.md)
 - [Definitions](definitions.md)
-
+- [Discussions](discussions.md)
