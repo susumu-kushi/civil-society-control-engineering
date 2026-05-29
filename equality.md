@@ -84,9 +84,9 @@ AI should assist the realization of equality, not undermine it.
 
 ## Related Concepts
 
-* [Human Dignity](human-dignity.md)
-* [Independence](independence.md)
-* [Freedom](freedom.md)
+- [Human Dignity](human-dignity.md)
+- [Independence](independence.md)
+- [Freedom](freedom.md)
 
 ---
 
