@@ -47,3 +47,4 @@ This archive exists to preserve the principles of civil society for future gener
 ## Contents
 
 - [What Is Civil Society Control Engineering](what-is-csce.md)
+- [Numa Theory](numa-theory.md)
