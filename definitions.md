@@ -1,6 +1,12 @@
 # Definitions
 
-Core concepts of Civil Society Control Engineering and Numa Theory.
+## Core Concepts of Civil Society Control Engineering and Numa Theory
+
+The following concepts form the intellectual foundation of Civil Society Control Engineering and Numa Theory.
+
+Together they provide a framework for understanding human dignity, law, society, technology, and the future of civil society.
+
+---
 
 ## Concept Pages
 
