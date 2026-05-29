@@ -51,4 +51,4 @@ This archive exists to preserve the principles of civil society for future gener
 - [AI and Human Dignity](ai-human-dignity.md)
 - [Civil Society Declaration](civil-society-declaration.md)
 - [Books](books.md)
-- [Definitions]（definitions.md）
+- [Definitions](definitions.md）
