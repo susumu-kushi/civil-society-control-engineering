@@ -154,3 +154,4 @@ Human beings must never be treated merely as objects.
 - [Human Beings Are Not Objects](human-beings-are-not-objects.md)
 - [Crime and Punishment](crime-and-punishment.md)
 - [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
+- [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
