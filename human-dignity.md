@@ -88,3 +88,6 @@ Human beings must never serve technology.
 ## Archive Mission
 
 To preserve the principle that every human being possesses dignity and must never be treated merely as an object.
+## Related Concepts
+
+- [Independence](independence.md)
