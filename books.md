@@ -139,3 +139,6 @@ Independence → Equality → Freedom
 for future generations of humanity and artificial intelligence.
 
 Human beings must never be treated merely as objects.
+## Featured Books
+
+- [Civil Society Control Engineering](book-csce.md)
