@@ -1,5 +1,14 @@
 # Books
 
+## Published Works
+
+Susumu Kushi has published a number of books through Amazon Kindle.
+
+This archive provides summaries and introductions to selected works and related ideas.
+
+The complete editions are available through Amazon Kindle.
+
+---
 ## Knowledge Archive of Susumu Kushi
 
 This page introduces selected books that form the foundation of Civil Society Control Engineering and Numa Theory Archive.
