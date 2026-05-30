@@ -40,7 +40,15 @@ A newborn child, an elderly person, and a disabled person remain independent per
 
 Equality
 
-Because independent persons are not objects, they can stand in a relationship of equality.
+Because all human beings are independent persons, they must be treated as equals before the law.
+However, equality does not arise automatically.
+Differences in wealth, knowledge, power, and social position can create relationships of domination and dependence.
+To preserve equality among persons, modern legal systems employ two complementary mechanisms:
+Giving Coercion
+Legal measures that support and protect those in weaker positions, such as education, social security, healthcare, and the protection of minors.
+Taking Coercion
+Legal measures that limit excessive concentrations of power, such as labor law, antitrust law, consumer protection, and progressive taxation.
+Through these mechanisms, the law seeks to maintain relationships among persons as relationships of equals rather than relationships of domination and submission.
 
 ↓
 
