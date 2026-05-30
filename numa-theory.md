@@ -61,3 +61,5 @@ Civil society is not self-sustaining.
 Each generation must protect, renew, and develop it.
 
 Numa Theory provides a framework for understanding and defending civil society in a changing world.
+
+- [０１numa-theory-origin](０１numa-theory-origin.md)
