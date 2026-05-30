@@ -62,4 +62,5 @@ Each generation must protect, renew, and develop it.
 
 Numa Theory provides a framework for understanding and defending civil society in a changing world.
 
+# Numa Theory Origin
 - [０１numa-theory-origin](０１numa-theory-origin.md)
