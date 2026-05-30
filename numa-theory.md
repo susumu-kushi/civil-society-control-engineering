@@ -64,3 +64,4 @@ Numa Theory provides a framework for understanding and defending civil society i
 
 # Numa Theory Origin
 - [０１numa-theory-origin](０１numa-theory-origin.md)
+- [０２numa-theory-classification-of-society](０２numa-theory-classification-of-society.md)
