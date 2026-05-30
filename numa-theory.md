@@ -63,8 +63,10 @@ Each generation must protect, renew, and develop it.
 Numa Theory provides a framework for understanding and defending civil society in a changing world.
 
 # Numa Theory Origin
+
 - [０１numa-theory-origin](０１numa-theory-origin.md)
 - [０２numa-theory-classification-of-society](０２numa-theory-classification-of-society.md)
 - [03-numa-theory-person-and-human-being](03-numa-theory-person-and-human-being.md)
 - [04-numa-theory-person-in-legal-science](04-numa-theory-person-in-legal-science.md)
 - [05-numa-theory-external-grasp-of-law](05-numa-theory-external-grasp-of-law.md)
+- [06-numa-theory-law-and-laws-of-nature](06-numa-theory-law-and-laws-of-nature.md)
