@@ -7,8 +7,6 @@ Unlike Definitions, which present established concepts, Discussions preserve the
 ## Articles
 
 * [How AI Came to Understand Human Dignity](how-ai-understood-human-dignity.md)
-* [Independence Before Equality and Freedom](independence-before-equality-and-freedom.md)
-* [AI and Human Dignity: A Dialogue](ai-and-human-dignity-dialogue.md)
 
 Civil Society is not built only by conclusions.
 
