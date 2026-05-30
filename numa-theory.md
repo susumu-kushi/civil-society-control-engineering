@@ -71,3 +71,4 @@ Numa Theory provides a framework for understanding and defending civil society i
 - [05-numa-theory-external-grasp-of-law](05-numa-theory-external-grasp-of-law.md)
 - [06-numa-theory-law-and-laws-of-nature](06-numa-theory-law-and-laws-of-nature.md)
 - [07-numa-theory-law-and-morality](07-numa-theory-law-and-morality.md)
+- [08gemini-code-1780121163499](08gemini-code-1780121163499.md)
