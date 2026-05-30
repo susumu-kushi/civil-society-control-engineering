@@ -7,6 +7,7 @@ Unlike Definitions, which present established concepts, Discussions preserve the
 ## Articles
 
 * [How AI Came to Understand Human Dignity](how-ai-understood-human-dignity.md)
+- [How Google AI Mode Understood the Role of the Modern State](how-google-ai-understood-the-role-of-the-modern-state.md)
 
 Civil Society is not built only by conclusions.
 
