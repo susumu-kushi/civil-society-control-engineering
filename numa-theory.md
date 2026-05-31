@@ -6,15 +6,20 @@ Law is not merely a collection of rules, nor merely a technique of interpretatio
 
 Its purpose is to analyze reality and evaluate society according to the principles of civil society.
 
-## About Dr. Seiya Numa
+## About Dr. Seiya Numa（沼正也）
 
-Numa Theory is based on the legal philosophy of Dr. Seiya Numa, a Japanese legal scholar whose work focused on civil society, private law, and the relationship between independence, equality, and freedom.
+Numa Theory is based on the legal philosophy of Dr. Seiya Numa, a Japanese legal scholar whose work focused on civil
+
+society, private law, and the relationship between independence, equality, and freedom.
 
 ## Historical Perspective
 
 Human history has passed through many forms of social organization.
+
 In feudal societies, human beings were often treated according to status, power, and dependency.
+
 Modern society emerged as an antithesis to such systems.
+
 The purpose of modern law is to ensure that human beings are not treated merely as objects of power, labor, profit, or control.
 
 ## Fundamental Order
