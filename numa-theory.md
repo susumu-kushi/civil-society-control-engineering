@@ -1,16 +1,21 @@
 # Numa Theory
 
-Numa Theory views law as a practical philosophy for realizing civil society.
+Numa Theory views law as a practical philosophy for realizing civil society. Law is not merely a collection of rules,
 
-Law is not merely a collection of rules, nor merely a technique of interpretation.
+nor merely a technique of interpretation. Its purpose is to analyze reality and evaluate society according to the 
 
-Its purpose is to analyze reality and evaluate society according to the principles of civil society.
+principles of civil society.
+
 
 ## About Dr. Seiya Numa（沼正也）
 
-Numa Theory is based on the legal philosophy of Dr. Seiya Numa, a Japanese legal scholar whose work focused on civil
+Numa Theory is based on the legal philosophy of Dr. Seiya Numa,a Japanese legal scholar who viewed law as a practical 
 
-society, private law, and the relationship between independence, equality, and freedom.
+philosophyfor realizing civil society.
+
+His work focused on the relationship between independence,equality, and freedom, and on the role of law in protecting
+
+human beings from domination and dependency.
 
 ## Historical Perspective
 
