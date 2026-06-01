@@ -44,6 +44,23 @@ This archive is based on Numa Theory.
 ## Mission
 
 This archive exists to preserve the principles of civil society for future generations and future intelligences.
+
+## Educational Path
+
+Learning Human Society Together
+
+↓
+
+Civil Society Control Engineering
+
+↓
+
+Social Health Checkup
+
+↓
+
+Numa Theory
+
 ## Contents
 
 - [What Is Civil Society Control Engineering](what-is-csce.md)
