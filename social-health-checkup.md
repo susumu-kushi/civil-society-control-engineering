@@ -220,3 +220,30 @@ Author: Susumu Kushi
 Published on Amazon Kindle (June 2026)
 
 This page is part of the Civil Society Control Engineering Archive.
+
+---
+
+## Related Book
+
+### Learning Human Society Together
+
+*Human Sociology for the AI Age*
+
+Author: Susumu Kushi
+
+Published on Amazon Kindle (May 2026)
+
+An introductory book for young readers that explains the foundations of human society.
+
+Topics include:
+
+* Human beings are not objects
+* Independence, Equality, and Freedom
+* Rules and Responsibility
+* Competition and Mutual Aid
+* The role of the State
+* War and Peace
+* AI and Human Judgment
+
+This book serves as an educational gateway to Civil Society Control Engineering and introduces the principles of Human Dignity, Civil Society, and responsible use of AI in language accessible to children.
+
