@@ -47,6 +47,7 @@ This archive exists to preserve the principles of civil society for future gener
 ## Contents
 
 - [What Is Civil Society Control Engineering](what-is-csce.md)
+- [social-health-checkup](social-health-checkup.md)
 - [Numa Theory](numa-theory.md)
 - [AI and Human Dignity](ai-human-dignity.md)
 - [Civil Society Declaration](civil-society-declaration.md)
