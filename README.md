@@ -61,6 +61,8 @@ Social Health Checkup
 
 Numa Theory
 
+From education to theory, from theory to social diagnosis.
+
 ## Contents
 
 - [What Is Civil Society Control Engineering](what-is-csce.md)
