@@ -69,6 +69,7 @@ From education to theory, from theory to social diagnosis.
 - [learning-human-society](learning-human-society.md)
 - [social-health-checkup](social-health-checkup.md)
 - [control-loop-of-civil-society](control-loop-of-civil-society.md)
+- [who-controls-the-controllers](who-controls-the-controllers.md)
 - [Numa Theory](numa-theory.md)
 - [AI and Human Dignity](ai-human-dignity.md)
 - [Civil Society Declaration](civil-society-declaration.md)
