@@ -68,6 +68,7 @@ From education to theory, from theory to social diagnosis.
 - [What Is Civil Society Control Engineering](what-is-csce.md)
 - [learning-human-society](learning-human-society.md)
 - [social-health-checkup](social-health-checkup.md)
+- [control-loop-of-civil-society](control-loop-of-civil-society.md)
 - [Numa Theory](numa-theory.md)
 - [AI and Human Dignity](ai-human-dignity.md)
 - [Civil Society Declaration](civil-society-declaration.md)
