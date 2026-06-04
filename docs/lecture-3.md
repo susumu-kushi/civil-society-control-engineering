@@ -184,6 +184,8 @@ Previous:
 
 ← Lecture 2
 
+- [Lecture 2: Law as Dynamic Control](lecture-2.md)
+
 Law as Dynamic Control
 
 法はなぜ動的制御装置なのか
