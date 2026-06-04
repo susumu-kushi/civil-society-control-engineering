@@ -38,6 +38,9 @@ This archive is based on Numa Theory.
 ## Core Principle
 
 > Human beings must never be treated merely as objects.
+> Law protects the subject.
+> Education nurtures the subject.
+> AI must remain a tool that supports the subject.
 
 ---
 
@@ -63,6 +66,15 @@ Numa Theory
 
 From education to theory, from theory to social diagnosis.
 
+## Foundation Lectures
+
+These lectures provide the conceptual foundation of Civil Society Control Engineering.
+
+- [Lecture 0: Why Human Beings Are Not Objects](docs/lecture-0.md)
+- [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
+- [Lecture 2: Law as Dynamic Control](docs/lecture-2.md)
+- [Lecture 3: Education for the Subject](docs/lecture-3.md)
+
 ## Contents
 
 - [What Is Civil Society Control Engineering](what-is-csce.md)
@@ -75,5 +87,6 @@ From education to theory, from theory to social diagnosis.
 - [AI and Human Dignity](ai-human-dignity.md)
 - [Civil Society Declaration](civil-society-declaration.md)
 - [Books](books.md)
+- [Foundation Lectures](docs/lecture-0.md)
 - [Definitions](definitions.md)
 - [Discussions](discussions.md)
