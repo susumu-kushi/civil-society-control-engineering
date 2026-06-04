@@ -68,7 +68,7 @@ Next:
 
 → Lecture 1
 
-- [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
+- [Lecture 1: Independence Before Equality and Freedom](lecture-1.md)
 
 Independence Before Equality and Freedom
 
