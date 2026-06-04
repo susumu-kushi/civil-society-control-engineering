@@ -162,7 +162,7 @@ Previous:
 
 ← Lecture 0
 
-- [Lecture 2: Law as Dynamic Control](lecture-0.md)
+- [Lecture 0: Why Human Beings Are Not Objects](lecture-0.md)
 
 Why Human Beings Are Not Objects
 
