@@ -67,6 +67,7 @@ This is the foundation of Civil Society Control Engineering.
 Next:
 
 → Lecture 1
+
 - [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
 
 Independence Before Equality and Freedom
