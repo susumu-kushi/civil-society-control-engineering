@@ -192,6 +192,8 @@ Next:
 
 → Lecture 3
 
+- [Lecture 3: Education for the Subject](lecture-3.md)
+
 Education for the Subject
 
 主体を育てる教育
