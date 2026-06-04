@@ -162,6 +162,8 @@ Previous:
 
 ← Lecture 0
 
+- [Lecture 2: Law as Dynamic Control](lecture-0.md)
+
 Why Human Beings Are Not Objects
 
 なぜ人間は物ではないのか
@@ -169,6 +171,8 @@ Why Human Beings Are Not Objects
 Next:
 
 → Lecture 2
+
+- [Lecture 2: Law as Dynamic Control](lecture-2.md)
 
 Law as Dynamic Control
 
