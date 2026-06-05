@@ -247,3 +247,28 @@ That is the meaning of AI system debugging.
 That is the meaning of social health checkup.
 
 And that is one practical application of Numa Theory in the age of artificial intelligence.
+
+## Final Observation
+
+This experiment does not prove that AI can be trusted.
+
+Nor does it prove that a particular individual can control AI.
+
+It demonstrates something more important.
+
+AI produces outputs.
+
+Human beings must observe them.
+
+Human beings must evaluate them.
+
+Human beings must correct them when necessary.
+
+The future of civil society will not depend on perfect AI.
+
+It will depend on citizens who can think, question, and exercise judgment.
+
+That is why education remains essential.
+
+And that is why control remains necessary.
+
