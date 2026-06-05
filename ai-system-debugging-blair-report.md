@@ -292,7 +292,7 @@ Evaluation must continue.
 
 Correction must continue.
 
-Civil society is not a destination.
+Civil society is a destination.
 
 It is an ongoing process of maintaining independence, equality, and freedom under changing conditions.
 
