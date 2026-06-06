@@ -20,3 +20,4 @@ Together they provide a framework for understanding human dignity, law, society,
 * [Giving Coercion](giving-coercion.md)
 * [Taking Coercion](taking-coercion.md)
 * [AI Governance](ai-governance.md)
+* [civic-literacy](civic-literacy.md)
