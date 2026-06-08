@@ -11,6 +11,7 @@ Unlike Definitions, which present established concepts, Discussions preserve the
 - [ai-system-debugging-blair-report](ai-system-debugging-blair-report.md)
 - [ai-human-dignity-and-civic-literacy](ai-human-dignity-and-civic-literacy.md)
 - [ai-feedback-loop-subject-education](ai-feedback-loop-subject-education.md)
+- [modern-law-does-not-reject-capitalism](modern-law-does-not-reject-capitalism.md)
 
 Civil Society is not built only by conclusions.
 
