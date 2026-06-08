@@ -4,7 +4,7 @@
 
 ### The Beginning of the Discussion
 
-After watching a dialogue between Atsuhiko Minowa and Kohei Saito, I asked Google AI to analyze their discussion.
+After watching a dialogue between Atsuhiko Minowa and Kohei Saito, I asked Gemini to analyze their discussion.
 
 The AI examined the conversation from several perspectives:
 
