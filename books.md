@@ -180,7 +180,7 @@ for future generations of humanity and artificial intelligence.
 Human beings must never be treated merely as objects.
 ## Featured Books
 
-- [kant-and-kingdom-of-ends](kant-and-kingdom-of-ends.md)
+- [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
 - [Civil Society Control Engineering](book-csce.md)
 - [Human Beings Are Not Objects](human-beings-are-not-objects.md)
 - [Crime and Punishment](crime-and-punishment.md)
