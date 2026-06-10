@@ -17,7 +17,33 @@ The purpose of this archive is not merely to preserve books, but to preserve ide
 
 ---
 
-# 1. Civil Society Control Engineering
+# 1. The Origins of Civil Society Control Engineering
+
+## Core Question
+
+Why should human beings be treated as ends rather than means?
+
+## Core Principle
+
+Human beings possess dignity and must never be reduced to mere instruments.
+
+## Key Concepts
+
+* Immanuel Kant
+* Kingdom of Ends
+* Human Dignity
+* Personhood
+* Modern Law
+* Civil Society
+* AI and Humanity
+
+## Position in the Archive
+
+Philosophical Foundation
+
+---
+
+# 2. Civil Society Control Engineering
 
 ## Core Question
 
@@ -41,7 +67,7 @@ Foundation Theory
 
 ---
 
-# 2. Human Beings Are Not Objects
+# 3. Human Beings Are Not Objects
 
 ## Core Question
 
@@ -65,7 +91,7 @@ Civil Law Foundation
 
 ---
 
-# 3. Crime and Punishment
+# 4. Crime and Punishment
 
 ## Core Question
 
@@ -89,7 +115,7 @@ Theory of State Power
 
 ---
 
-# 4. For Japanese People Torn by the National Anthem, National Flag, and Article 9
+# 5. For Japanese People Torn by the National Anthem, National Flag, and Article 9
 
 ## Core Question
 
@@ -115,7 +141,7 @@ Applied Numa Theory
 
 ---
 
-# 5. Introduction to a Constitution for Earth Citizens by AI
+# 6. Introduction to a Constitution for Earth Citizens by AI
 
 ## Core Question
 
@@ -138,6 +164,10 @@ From Nationals to Earth Citizens.
 Future Vision
 
 ---
+Taken together, these works explore a single enduring question:
+
+How can human dignity be preserved as human society evolves from feudal structures, 
+through modern constitutionalism, and into the age of artificial intelligence?
 
 ## Archive Mission
 
@@ -150,6 +180,7 @@ for future generations of humanity and artificial intelligence.
 Human beings must never be treated merely as objects.
 ## Featured Books
 
+- [kant-and-kingdom-of-ends](kant-and-kingdom-of-ends.md)
 - [Civil Society Control Engineering](book-csce.md)
 - [Human Beings Are Not Objects](human-beings-are-not-objects.md)
 - [Crime and Punishment](crime-and-punishment.md)
