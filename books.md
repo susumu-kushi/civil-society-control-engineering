@@ -166,6 +166,10 @@ Future Vision
 ---
 Taken together, these works explore a single enduring question:
 
+From Kant's Kingdom of Ends,
+through modern law and civil society,
+to the challenges of artificial intelligence.
+
 How can human dignity be preserved as human society evolves from feudal structures, 
 through modern constitutionalism, and into the age of artificial intelligence?
 
