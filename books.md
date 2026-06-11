@@ -173,6 +173,35 @@ to the challenges of artificial intelligence.
 How can human dignity be preserved as human society evolves from feudal structures, 
 through modern constitutionalism, and into the age of artificial intelligence?
 
+---
+
+# 7. The Intellectual Map of Civil Society Control Engineering
+
+## Core Question
+
+What have human beings tried to protect throughout history?
+
+## Core Principle
+
+Human beings must never be treated merely as objects.
+
+## Key Concepts
+
+* Human Dignity
+* Independence
+* Equality
+* Freedom
+* Civil Society
+* Modern Law
+* Political Philosophy
+* AI and Humanity
+
+## Position in the Archive
+
+Grand Narrative / Intellectual History Foundation
+
+---
+
 ## Archive Mission
 
 To preserve and transmit the principles of:
@@ -190,3 +219,5 @@ Human beings must never be treated merely as objects.
 - [Crime and Punishment](crime-and-punishment.md)
 - [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
 - [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
+- [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
+  
