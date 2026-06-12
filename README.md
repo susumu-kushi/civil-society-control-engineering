@@ -1,56 +1,77 @@
-# Civil Society Control Engineering
+# Numa Theory Archive
 
-## Numa Theory Archive
+## Beyond Feudalism.
 
-### Human beings must never be treated merely as objects.
+## Living in Modernity.
+
+## Toward Civil Society.
+
+### The Civil Code is the code of civil society.
+
+### Human beings are not objects.
 
 ---
 
 ## About This Archive
 
-This archive was created to preserve and develop the fundamental principles of civil society in the age of artificial intelligence.
+This archive explores a single question:
 
-Modern civilization emerged through the long historical struggle against feudal systems that treated human beings as instruments of power, labor, or control.
+**How can human dignity be preserved from feudal society, through modern law, and into the age of artificial intelligence?**
 
-The modern principles of Independence, Equality, and Freedom were born as an antithesis to such structures.
+The archive is organized around three central propositions:
 
-However, in the AI era, new forms of concentration and domination are emerging:
+1. The Civil Code is the code of civil society.
+2. Human beings are not objects.
+3. Civil Society Control Engineering applies these principles to the age of AI.
 
-- Digital Feudalism
-- Algorithmic Control
-- Information Monopolies
-- Surveillance Capitalism
-- Invisible Systems of Social Manipulation
+Together these works explore the historical transition:
 
-Civil Society Control Engineering is an attempt to analyze and design society as a dynamic control system involving:
-
-- the State
-- the Market
-- Artificial Intelligence
-- Law
-- Information
-- Human Dignity
-
-This archive is based on Numa Theory.
+**Feudal Society → Modern Society → Civil Society in the Age of AI**
 
 ---
 
-## Core Principle
+## Intellectual Structure
 
-> Human beings must never be treated merely as objects.
-> Law protects the subject.
-> Education nurtures the subject.
-> AI must remain a tool that supports the subject.
+The Civil Code describes civil society.
+
+Human beings are the subjects of rights and obligations.
+
+The modern state exists to protect civil society.
+
+Civil Society Control Engineering studies how these principles can be preserved in the age of artificial intelligence.
+
+---
+
+## Core Concepts
+
+* Human Dignity
+* Legal Person
+* Rights and Obligations
+* Private Autonomy
+* Civil Society
+* Modern State
+* Rule of Law
+* Artificial Intelligence
 
 ---
 
 ## Mission
 
-This archive exists to preserve the principles of civil society for future generations and future intelligences.
+This archive exists to preserve and develop the principles of civil society for future generations of humanity and future intelligences.
+
+---
 
 ## Educational Path
 
-Learning Human Society Together
+Numa Theory
+
+↓
+
+The Civil Code Is the Code of Civil Society
+
+↓
+
+Human Beings Are Not Objects
 
 ↓
 
@@ -60,33 +81,68 @@ Civil Society Control Engineering
 
 Social Health Checkup
 
-↓
+From legal foundations to social diagnosis.
 
-Numa Theory
-
-From education to theory, from theory to social diagnosis.
+---
 
 ## Foundation Lectures
 
 These lectures provide the conceptual foundation of Civil Society Control Engineering.
 
-- [Lecture 0: Why Human Beings Are Not Objects](docs/lecture-0.md)
-- [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
-- [Lecture 2: Law as Dynamic Control](docs/lecture-2.md)
-- [Lecture 3: Education for the Subject](docs/lecture-3.md)
+* [Lecture 0: Why Human Beings Are Not Objects](docs/lecture-0.md)
+* [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
+* [Lecture 2: Law as Dynamic Control](docs/lecture-2.md)
+* [Lecture 3: Education for the Subject](docs/lecture-3.md)
+
+---
+
+## Books
+
+* [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
+* [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
+* [Civil Society Control Engineering](book-csce.md)
+* [Crime and Punishment](crime-and-punishment.md)
+* [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
+* [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
+* [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
+
+---
 
 ## Contents
 
-- [What Is Civil Society Control Engineering](what-is-csce.md)
-- [learning-human-society](learning-human-society.md)
-- [social-health-checkup](social-health-checkup.md)
-- [control-loop-of-civil-society](control-loop-of-civil-society.md)
-- [who-controls-the-controllers](who-controls-the-controllers.md)
-- [who-defines-the-goal](who-defines-the-goal.md)
-- [Numa Theory](numa-theory.md)
-- [AI and Human Dignity](ai-human-dignity.md)
-- [Civil Society Declaration](civil-society-declaration.md)
-- [Books](books.md)
-- [Foundation Lectures](docs/lecture-0.md)
-- [Definitions](definitions.md)
-- [Discussions](discussions.md)
+* [What Is Civil Society Control Engineering](what-is-csce.md)
+* [Learning Human Society Together](learning-human-society.md)
+* [Social Health Checkup](social-health-checkup.md)
+* [Control Loop of Civil Society](control-loop-of-civil-society.md)
+* [Who Controls the Controllers?](who-controls-the-controllers.md)
+* [Who Defines the Goal?](who-defines-the-goal.md)
+* [Numa Theory](numa-theory.md)
+* [AI and Human Dignity](ai-human-dignity.md)
+* [Civil Society Declaration](civil-society-declaration.md)
+* [Books](books.md)
+* [Definitions](definitions.md)
+* [Discussions](discussions.md)
+
+---
+
+## Archive Mission
+
+To preserve and transmit the principles of:
+
+**Human Dignity → Civil Society → Modern State → AI Age**
+
+and
+
+**Independence → Equality → Freedom**
+
+for future generations of humanity and artificial intelligence.
+
+---
+
+### Final Proposition
+
+> The Civil Code is the code of civil society.
+
+> Human beings are not objects.
+
