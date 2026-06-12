@@ -105,6 +105,7 @@ These lectures provide the conceptual foundation of Civil Society Control Engine
 * [Crime and Punishment](crime-and-punishment.md)
 * [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
 * [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
+* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
 * [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
 
 ---
