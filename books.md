@@ -2,48 +2,102 @@
 
 ## Published Works
 
-Susumu Kushi has published a number of books through Amazon Kindle.
+Susumu Kushi has published a series of books exploring modern law, civil society, human dignity, and the challenges of the AI age.
 
-This archive provides summaries and introductions to selected works and related ideas.
+These works form the intellectual foundation of Numa Theory and Civil Society Control Engineering.
 
 The complete editions are available through Amazon Kindle.
 
 ---
+
 ## Knowledge Archive of Susumu Kushi
 
-This page introduces selected books that form the foundation of Civil Society Control Engineering and Numa Theory Archive.
+This archive is organized around three central propositions:
 
-The purpose of this archive is not merely to preserve books, but to preserve ideas for future generations of humans and AI.
+1. The Civil Code is the code of civil society.
+2. Human beings are not objects.
+3. Civil Society Control Engineering applies these principles to the age of AI.
+
+Together these works explore the transition:
+
+**From Feudal Society → Modern Society → Civil Society in the Age of AI**
 
 ---
 
-# 1. The Origins of Civil Society Control Engineering
+# 1. The Civil Code Is the Code of Civil Society
 
 ## Core Question
 
-Why should human beings be treated as ends rather than means?
+What does the Civil Code actually describe?
 
 ## Core Principle
 
-Human beings possess dignity and must never be reduced to mere instruments.
+The Civil Code is not primarily a code of the state.
+
+It is the legal framework of civil society.
+
+## Structure of the Civil Code
+
+### General Provisions
+
+Defines the subjects of rights and obligations.
+
+Civil society begins with independent legal persons.
+
+### Property Law
+
+Governs free economic activity among persons.
+
+### Family Law
+
+Protects and supplements those who cannot fully participate in economic activity.
+
+### Inheritance Law
+
+Provides continuity after the death of a legal subject.
 
 ## Key Concepts
 
-* Immanuel Kant
-* Kingdom of Ends
-* Human Dignity
-* Personhood
-* Modern Law
+* Legal Person
+* Rights and Obligations
+* Private Autonomy
+* Property Law
+* Family Law
+* Inheritance Law
 * Civil Society
-* AI and Humanity
+* Modern State
 
 ## Position in the Archive
 
-Philosophical Foundation
+Foundation of Civil Society
 
 ---
 
-# 2. Civil Society Control Engineering
+# 2. Human Beings Are Not Objects
+
+## Core Question
+
+Why did modern law prohibit ownership of human beings?
+
+## Core Principle
+
+Human beings are persons, not property.
+
+## Key Concepts
+
+* Human Dignity
+* Personhood
+* Property Rights
+* Modern Law
+* Civil Society
+
+## Position in the Archive
+
+Foundation of Personhood
+
+---
+
+# 3. Civil Society Control Engineering
 
 ## Core Question
 
@@ -60,34 +114,11 @@ Human beings must never be treated merely as objects.
 * Freedom
 * Human Dignity
 * AI Governance
+* Social Diagnosis
 
 ## Position in the Archive
 
-Foundation Theory
-
----
-
-# 3. Human Beings Are Not Objects
-
-## Core Question
-
-Why did modern law prohibit ownership of human beings?
-
-## Core Principle
-
-Human beings are persons, not property.
-
-## Key Concepts
-
-* Human Dignity
-* Property Rights
-* Personhood
-* Modern Law
-* Civil Society
-
-## Position in the Archive
-
-Civil Law Foundation
+Applied Numa Theory
 
 ---
 
@@ -164,16 +195,6 @@ From Nationals to Earth Citizens.
 Future Vision
 
 ---
-Taken together, these works explore a single enduring question:
-
-From Kant's Kingdom of Ends,
-through modern law and civil society,
-to the challenges of artificial intelligence.
-
-How can human dignity be preserved as human society evolves from feudal structures, 
-through modern constitutionalism, and into the age of artificial intelligence?
-
----
 
 # 7. The Intellectual Map of Civil Society Control Engineering
 
@@ -201,23 +222,29 @@ Human beings must never be treated merely as objects.
 Grand Narrative / Intellectual History Foundation
 
 ---
+## Featured Books
+
+* [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
+* [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
+* [Civil Society Control Engineering](book-csce.md)
+* [Crime and Punishment](crime-and-punishment.md)
+* [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
+* [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
+* [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
+
+---
 
 ## Archive Mission
 
 To preserve and transmit the principles of:
 
-Independence → Equality → Freedom
+**Human Dignity → Civil Society → AI Age**
+
+and
+
+**Independence → Equality → Freedom**
 
 for future generations of humanity and artificial intelligence.
 
 Human beings must never be treated merely as objects.
-## Featured Books
-
-- [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
-- [Civil Society Control Engineering](book-csce.md)
-- [Human Beings Are Not Objects](human-beings-are-not-objects.md)
-- [Crime and Punishment](crime-and-punishment.md)
-- [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
-- [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
-- [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
-  
