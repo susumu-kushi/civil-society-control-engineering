@@ -82,3 +82,9 @@ Technology should assist independent persons, not replace them.
 ## Archive Mission
 
 To preserve the principle that every human being is an independent person and never merely an object of control.
+
+---
+
+## Application
+
+- [CSCE Observation Theory](./csce-observation-theory.md)
