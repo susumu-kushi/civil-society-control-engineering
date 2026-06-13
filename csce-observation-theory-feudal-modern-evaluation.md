@@ -100,3 +100,10 @@ This question forms the foundation of CSCE Observation Theory.
 > Modern Evaluation judges the person through personhood, actions, responsibility, and reason.
 
 The transition from feudal society to modern civil society can therefore be understood not only as a change in institutions, but also as a transformation in the way human beings evaluate one another.
+
+---
+
+# Related Pages
+
+- [CSCE Observation Theory](./csce-observation-theory.md)
+
