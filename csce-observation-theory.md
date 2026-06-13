@@ -248,3 +248,11 @@ The answer to that question reveals whether a society is moving toward:
 - or Civil Society.
 
 Observation is therefore the first step toward protecting human dignity in the age of AI.
+
+---
+
+# Related Pages
+
+- [Feudal and Modern Evaluation Criteria](./csce-observation-theory-feudal-modern-evaluation.md)
+
+Add link to Feudal and Modern Evaluation Criteria
