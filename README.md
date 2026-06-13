@@ -1,5 +1,11 @@
 # Numa Theory Archive
 
+Inspired by the legal philosophy of Seiya Numa
+
+Exploring human dignity, modern law,
+civil society, and AI-era governance through
+Civil Society Control Engineering.
+
 ## Beyond Feudalism.
 
 ## Living in Modernity.
