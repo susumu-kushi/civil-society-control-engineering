@@ -255,4 +255,3 @@ Observation is therefore the first step toward protecting human dignity in the a
 
 - [Feudal and Modern Evaluation Criteria](./csce-observation-theory-feudal-modern-evaluation.md)
 
-Add link to Feudal and Modern Evaluation Criteria
