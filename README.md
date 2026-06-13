@@ -115,8 +115,6 @@ These lectures provide the conceptual foundation of Civil Society Control Engine
 
 ---
 
----
-
 ## Theory
 
 ### Foundations
