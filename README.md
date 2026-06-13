@@ -75,13 +75,19 @@ Human Beings Are Not Objects
 
 ↓
 
+CSCE Observation Theory
+
+↓
+
+Feudal and Modern Evaluation Criteria
+
+↓
+
 Civil Society Control Engineering
 
 ↓
 
 Social Health Checkup
-
-From legal foundations to social diagnosis.
 
 ---
 
