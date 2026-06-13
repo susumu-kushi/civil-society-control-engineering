@@ -109,6 +109,22 @@ These lectures provide the conceptual foundation of Civil Society Control Engine
 
 ---
 
+---
+
+## Theory
+
+### Foundations
+
+* [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+* [Independence Before Equality and Freedom](docs/lecture-1.md)
+
+### Observation Theory
+
+* [CSCE Observation Theory](csce-observation-theory.md)
+* [Feudal and Modern Evaluation Criteria](csce-observation-theory-feudal-modern-evaluation.md)
+
+---
+
 ## Contents
 
 * [What Is Civil Society Control Engineering](what-is-csce.md)
