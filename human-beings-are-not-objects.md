@@ -71,3 +71,9 @@ This page preserves the core idea that:
 Human beings must never be treated merely as objects.
 
 For future generations of humans and future intelligences.
+
+---
+
+## Next
+
+- [CSCE Observation Theory](./csce-observation-theory.md)
