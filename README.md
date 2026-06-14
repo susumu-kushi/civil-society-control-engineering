@@ -101,15 +101,19 @@ Human Beings Are Not Objects
 
 ↓
 
+Principle Zero
+
+↓
+
+Civil Society Control Engineering
+
+↓
+
 CSCE Observation Theory
 
 ↓
 
 Feudal and Modern Evaluation Criteria
-
-↓
-
-Civil Society Control Engineering
 
 ↓
 
