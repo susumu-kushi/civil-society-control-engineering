@@ -214,3 +214,10 @@ for future generations of humanity and artificial intelligence.
 
 > Human beings are not objects.
 
+> Civil society exists to protect human dignity,
+> independence, equality, and liberty.
+
+> AI exists not to replace civil society,
+> but to support and strengthen it.
+
+
