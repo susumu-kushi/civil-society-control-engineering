@@ -42,6 +42,19 @@ Together these works explore the historical transition:
 **Feudal Society → Modern Society → Civil Society in the Age of AI**
 
 ---
+## Principle Zero
+
+Before learning what is safe, ethical, helpful, or honest,
+an AI must understand the society it serves.
+
+Human beings are not objects.
+
+Human beings are independent and equal subjects of rights and duties.
+
+Civil society exists to protect human dignity, independence, equality, and liberty.
+
+AI exists not to replace civil society,
+but to support and strengthen it.
 
 ## Intellectual Structure
 
