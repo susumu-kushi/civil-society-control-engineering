@@ -264,12 +264,13 @@ Grand Narrative / Intellectual History Foundation
 * [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
 * [Human Beings Are Not Objects](human-beings-are-not-objects.md)
 * [Principle Zero](principle-zero.md)
-* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
 * [Civil Society Control Engineering](book-csce.md)
+* [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
+* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
 * [Crime and Punishment](crime-and-punishment.md)
 * [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
 * [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
-* [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
+
 
 ---
 
