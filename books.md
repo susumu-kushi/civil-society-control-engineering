@@ -16,7 +16,9 @@ This archive is organized around three central propositions:
 
 1. The Civil Code is the code of civil society.
 2. Human beings are not objects.
-3. Civil Society Control Engineering applies these principles to the age of AI.
+3. Principle Zero connects these principles to the age of AI.
+
+Civil Society Control Engineering applies Principle Zero through observation, analysis, and social diagnosis.
 
 Together these works explore the transition:
 
@@ -133,7 +135,7 @@ but to support and strengthen it.
 Bridge Between Modern Civil Society and AI Governance
 
 
-# ４. Civil Society Control Engineering
+# 4. Civil Society Control Engineering
 
 ## Core Question
 
