@@ -12,7 +12,7 @@ The complete editions are available through Amazon Kindle.
 
 ## Knowledge Archive of Susumu Kushi
 
-This archive is organized around three central propositions:
+This archive is organized around four central propositions: 
 
 1. The Civil Code is the code of civil society.
 2. Human beings are not objects.
