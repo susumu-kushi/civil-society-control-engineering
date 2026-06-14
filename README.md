@@ -58,13 +58,31 @@ but to support and strengthen it.
 
 ## Intellectual Structure
 
-The Civil Code describes civil society.
+Numa Theory
 
-Human beings are the subjects of rights and obligations.
+↓
 
-The modern state exists to protect civil society.
+The Civil Code is the code of civil society
 
-Civil Society Control Engineering studies how these principles can be preserved in the age of artificial intelligence.
+↓
+
+Human beings are subjects of rights and obligations
+
+↓
+
+Human beings are not objects
+
+↓
+
+Principle Zero
+
+↓
+
+Civil Society Control Engineering
+
+↓
+
+Social Health Checkup
 
 ---
 
