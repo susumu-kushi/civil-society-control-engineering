@@ -19,8 +19,6 @@ This archive is organized around three central propositions:
 3. Principle Zero connects these principles to the age of AI.
 4. Civil Society Control Engineering applies Principle Zero through observation, analysis, and social diagnosis.
 
-Civil Society Control Engineering applies Principle Zero through observation, analysis, and social diagnosis.
-
 Together these works explore the transition:
 
 **From Feudal Society → Modern Society → Civil Society in the Age of AI**
