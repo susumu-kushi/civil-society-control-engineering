@@ -97,7 +97,43 @@ Foundation of Personhood
 
 ---
 
-# 3. Civil Society Control Engineering
+# 3. Principle Zero
+
+## Core Question
+
+What kind of society should AI serve?
+
+## Core Principle
+
+Before learning what is safe, ethical, helpful, or honest,
+an AI must understand the society it serves.
+
+Human beings are not objects.
+
+Human beings are independent and equal subjects of rights and duties.
+
+Civil society exists to protect human dignity, independence, equality, and liberty.
+
+AI exists not to replace civil society,
+but to support and strengthen it.
+
+## Key Concepts
+
+* Principle Zero
+* Human Dignity
+* Civil Society
+* Independence
+* Equality
+* Liberty
+* AI Governance
+* Constitutional AI
+
+## Position in the Archive
+
+Bridge Between Modern Civil Society and AI Governance
+
+
+# ４. Civil Society Control Engineering
 
 ## Core Question
 
@@ -122,7 +158,7 @@ Applied Numa Theory
 
 ---
 
-# 4. Crime and Punishment
+# ５. Crime and Punishment
 
 ## Core Question
 
@@ -146,7 +182,7 @@ Theory of State Power
 
 ---
 
-# 5. For Japanese People Torn by the National Anthem, National Flag, and Article 9
+# ６. For Japanese People Torn by the National Anthem, National Flag, and Article 9
 
 ## Core Question
 
@@ -172,7 +208,7 @@ Applied Numa Theory
 
 ---
 
-# 6. Introduction to a Constitution for Earth Citizens by AI
+# ７. Introduction to a Constitution for Earth Citizens by AI
 
 ## Core Question
 
@@ -196,7 +232,7 @@ Future Vision
 
 ---
 
-# 7. The Intellectual Map of Civil Society Control Engineering
+# ８. The Intellectual Map of Civil Society Control Engineering
 
 ## Core Question
 
@@ -226,6 +262,7 @@ Grand Narrative / Intellectual History Foundation
 
 * [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
 * [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+* [Principle Zero](principle-zero.md)
 * [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
 * [Civil Society Control Engineering](book-csce.md)
 * [Crime and Punishment](crime-and-punishment.md)
