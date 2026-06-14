@@ -99,12 +99,6 @@ Social Health Checkup
 
 ---
 
-## Mission
-
-This archive exists to preserve and develop the principles of civil society for future generations of humanity and future intelligences.
-
----
-
 ## Educational Path
 
 Numa Theory
