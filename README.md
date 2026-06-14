@@ -1,11 +1,17 @@
 # Numa Theory Archive
 
-Based on the ideas of Seiya Numa,
-a pioneering Japanese civil law scholar who explored
-the foundations of modern civil law and civil society.
+An archive exploring civil society, modern law, human dignity, and AI governance.
 
-Exploring human dignity, modern law,
-and AI-era governance through Civil Society Control Engineering.
+Based on the intellectual legacy of Seiya Numa and developed through the framework of Civil Society Control Engineering.
+
+## Mission
+
+To preserve and develop the principles of civil society for future generations of humans and AI.
+
+Human Dignity
+→ Civil Society
+→ Modern Constitutional State
+→ AI Age
 
 ## Beyond Feudalism.
 
