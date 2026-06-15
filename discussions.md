@@ -9,6 +9,7 @@ Unlike Definitions, which present established concepts, Discussions preserve the
 - [Discussion 001: Majority Opinion and AI](discussion-001-majority-opinion-and-ai.md)
 - [discussion-001-claude-analysis](discussion-001-claude-analysis.md)
 - [discussion-001-gemini-analysis](discussion-001-gemini-analysis.md)
+- [discussion-001-integrated-analysis](discussion-001-integrated-analysis.md)
 - [How AI Came to Understand Human Dignity](how-ai-understood-human-dignity.md)
 - [How Google AI Mode Understood the Role of the Modern State](how-google-ai-understood-the-role-of-the-modern-state.md)
 - [csce-001 From Narrative Warfare to Human Dignity](csce-001-from-narrative-warfare-to-human-dignity.md)
