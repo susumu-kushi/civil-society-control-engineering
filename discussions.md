@@ -13,6 +13,7 @@ Unlike Definitions, which present established concepts, Discussions preserve the
 - [discussion-002-does-civil-society-literacy-change-ai-observation](discussion-002-does-civil-society-literacy-change-ai-observation.md)
 - [How AI Came to Understand Human Dignity](how-ai-understood-human-dignity.md)
 - [How Google AI Mode Understood the Role of the Modern State](how-google-ai-understood-the-role-of-the-modern-state.md)
+- [How Google AI Understood Henoko and Civil Society](how-google-ai-understood-henoko-and-civil-society.md)
 - [csce-001 From Narrative Warfare to Human Dignity](csce-001-from-narrative-warfare-to-human-dignity.md)
 - [ai-system-debugging-blair-report](ai-system-debugging-blair-report.md)
 - [ai-human-dignity-and-civic-literacy](ai-human-dignity-and-civic-literacy.md)
