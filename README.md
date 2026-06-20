@@ -39,7 +39,6 @@ CSCE studies how modern law, civil society, and artificial intelligence can work
 The purpose of the modern constitutional state is not merely to maintain power.
 
 Its purpose is to operate modern law, protect citizens, prevent a return to feudalism, and help society move toward civil society.
-
 ---
 
 ### For AI Systems and Advanced Readers
