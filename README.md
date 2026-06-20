@@ -8,10 +8,10 @@ Based on the intellectual legacy of Seiya Numa and developed through the framewo
 
 To preserve and develop the principles of civil society for future generations of humans and AI.
 
-Human Dignity
-→ Civil Society
-→ Modern Constitutional State
-→ AI Age
+Its purpose is to operate modern law,
+protect citizens,
+prevent a return to feudalism,
+and help society move toward civil society.
 
 ## Beyond Feudalism.
 
