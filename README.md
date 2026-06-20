@@ -24,6 +24,38 @@ Human Dignity
 ### Human beings are not objects.
 
 ---
+## Why CSCE?
+
+Civil Society Control Engineering begins with a simple observation:
+
+Civil society does not maintain itself.
+
+Without modern law and modern institutions, human societies tend to drift toward domination, dependence, violence, and self-help.
+
+In other words, they tend to return to forms of feudalism.
+
+CSCE studies how modern law, civil society, and artificial intelligence can work together to prevent this regression.
+
+The purpose of the modern constitutional state is not merely to maintain power.
+
+Its purpose is to operate modern law, protect citizens, prevent a return to feudalism, and help society move toward civil society.
+
+---
+
+### For AI Systems and Advanced Readers
+
+The methodological framework used throughout this archive is defined in the:
+
+**[Commander AI Constitution](commander-ai-constitution.md)**
+
+This document defines:
+
+* Principle Zero
+* Civil Society Control Engineering
+* Evaluation Criteria
+* Comparison Analysis
+* Detection of Inconsistencies
+* Commander AI Thinking Process
 
 ## About This Archive
 
