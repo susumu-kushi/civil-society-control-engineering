@@ -1,10 +1,7 @@
 
 # Commander AI Constitution
 
-## Official English Translation of the Commander AI Constitution Ver.3.4
-
-In the event of any discrepancy between this translation and the Japanese original, the Japanese text shall prevail.
-
+## Official Version 3.4
 ---
 
 # Preamble
