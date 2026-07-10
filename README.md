@@ -74,16 +74,7 @@ It defines how AI supports human judgment while preserving Principle Zero and ke
 
 - [Commander AI Constitution](commander-ai-constitution.md)
 
-Together these documents define:
-
-- Principle Zero
-- Observation Methodology
-- Evaluation Methodology
-- Evaluation Criteria
-- Comparison Analysis
-- Detection of Inconsistencies
-- AI Operational Framework
-- Commander AI Thinking Process
+Together these documents establish the operational methodology of Civil Society Control Engineering.
 
 ---
 
@@ -164,6 +155,10 @@ Commander AI Constitution
 
 ↓
 
+CSCE Release Notes
+
+↓
+
 Social Health Checkup
 
 ---
@@ -208,6 +203,10 @@ CSCE Evaluation Manual
 ↓
 
 Commander AI Constitution
+
+↓
+
+CSCE Release Notes
 
 ↓
 
@@ -316,6 +315,8 @@ They define the official methodology, the evaluation framework, and the initial 
 
 These documents constitute the primary reference for the current CSCE framework.
 
+They should be consulted before applying CSCE to case studies, AI systems, or future revisions.
+
 ## CSCE Evaluation Manual
 
 The official methodology of Civil Society Control Engineering.
@@ -327,5 +328,3 @@ The official methodology of Civil Society Control Engineering.
 The official release record of CSCE Version 1.0.
 
 - [CSCE Release Notes](csce-release-notes.md)
-
-
