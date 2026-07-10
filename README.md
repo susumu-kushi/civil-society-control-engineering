@@ -309,4 +309,3 @@ for future generations of humanity and artificial intelligence.
 > AI exists not to replace civil society,
 > but to support and strengthen it.
 
-<img width="468" height="638" alt="image" src="https://github.com/user-attachments/assets/dc4e611d-95b1-4490-bd79-cd34187a5f47" />
