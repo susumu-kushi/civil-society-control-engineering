@@ -8,10 +8,10 @@ Version: Ver.1.0
 
 ## Summary
 
-The CSCE Version 1.0 Release Notes summarize the initial public release of
+The CSCE Version 1.0 Release Notes document the initial public release of
 Civil Society Control Engineering (CSCE).
 
-Version 1.0 establishes the first complete framework integrating:
+Version 1.0 establishes the first official framework integrating:
 
 - Numa Theory
 - The Civil Code as the Code of Civil Society
@@ -22,13 +22,13 @@ Version 1.0 establishes the first complete framework integrating:
 - Civil Society Control Engineering
 - Social Health Checkup
 
-This release defines the initial architecture of CSCE and provides the
-foundation for future versions through continuous observation, evaluation,
-verification, and improvement.
+This release defines the foundational architecture of CSCE and provides
+the official baseline for future development.
 
-Rather than presenting a finished theory, Version 1.0 establishes an
-engineering framework that can evolve through practical application and
-collaborative verification between humans and AI.
+Future versions will continue to refine and expand the framework through
+observation, evaluation, verification, and collaboration between humans
+and artificial intelligence while preserving the core principles established
+in Version 1.0.
 
 ---
 
