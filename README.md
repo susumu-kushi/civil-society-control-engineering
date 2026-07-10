@@ -32,31 +32,19 @@ Civil Society Control Engineering begins with a simple observation:
 
 Civil society does not maintain itself.
 
-Without modern law and modern institutions, human societies tend to drift toward domination, dependence, violence, and self-help.
+Without modern law and modern institutions, human societies tend to drift toward domination, dependence, violence, and self-help — in other words, toward a return to feudalism, as described in the Mission above.
 
-In other words, they tend to return to forms of feudalism.
-
-CSCE studies how modern law, civil society, and artificial intelligence can work together to prevent this regression.
-
-The purpose of the modern constitutional state is not merely to maintain power.
-
-Its purpose is to operate modern law,
-
-protect citizens,
-
-prohibit self-help,
-
-exercise Giving Coercion and Taking Coercion,
-
-prevent a return to feudalism,
-
-and help society move toward civil society.
+CSCE exists to study how modern law, civil society, and artificial intelligence can work together to prevent this regression, and to verify that study through concrete case work.
 
 ---
 
-# Official Methodology
+# Official Documents
 
-The official methodology of Civil Society Control Engineering is defined by the following foundational documents.
+The following three documents constitute the official foundational documents of Civil Society Control Engineering (CSCE) Version 1.0.
+
+They collectively define the official methodology, the operational AI framework, and the official release record of CSCE Version 1.0.
+
+Together they constitute the primary reference for the current CSCE framework, and should be consulted before applying CSCE to case studies, AI systems, or future revisions.
 
 ## CSCE Evaluation Manual
 
@@ -74,7 +62,23 @@ It defines how AI supports human judgment while preserving Principle Zero and ke
 
 - [Commander AI Constitution](commander-ai-constitution.md)
 
-Together these documents establish the operational methodology of Civil Society Control Engineering.
+## CSCE Release Notes
+
+The official release record of CSCE Version 1.0.
+
+- [CSCE Release Notes](csce-release-notes.md)
+
+---
+
+# Case Study Project
+
+CSCE is continuously verified through practical case studies.
+
+The Case Study Project applies the official methodology to real-world social issues, public policy, international affairs, and AI governance.
+
+Because Civil Society Control Engineering is an engineering discipline, its credibility depends not only on its theory but on the accumulation of cases in which that theory is applied, tested, and revised.
+
+Case studies will be published as they are completed.
 
 ---
 
@@ -123,6 +127,8 @@ but to support and strengthen it.
 
 # Intellectual Structure
 
+*(The theoretical structure of CSCE — how each layer of thought builds on the one before it.)*
+
 Numa Theory
 
 ↓
@@ -155,10 +161,6 @@ Commander AI Constitution
 
 ↓
 
-CSCE Release Notes
-
-↓
-
 Social Health Checkup
 
 ---
@@ -177,6 +179,8 @@ Social Health Checkup
 ---
 
 # Educational Path
+
+*(The recommended order for reading through the archive, from first principles to applied practice.)*
 
 Numa Theory
 
@@ -305,26 +309,4 @@ for future generations of humanity and artificial intelligence.
 > AI exists not to replace civil society,
 > but to support and strengthen it.
 
----
-
-# Official Documents
-
-The following documents constitute the official foundational documents of Civil Society Control Engineering (CSCE).
-
-They define the official methodology, the evaluation framework, and the initial public release of CSCE Version 1.0.
-
-These documents constitute the primary reference for the current CSCE framework.
-
-They should be consulted before applying CSCE to case studies, AI systems, or future revisions.
-
-## CSCE Evaluation Manual
-
-The official methodology of Civil Society Control Engineering.
-
-- [CSCE Evaluation Manual](csce-evaluation-manual.md)
-
-## CSCE Release Notes
-
-The official release record of CSCE Version 1.0.
-
-- [CSCE Release Notes](csce-release-notes.md)
+<img width="468" height="638" alt="image" src="https://github.com/user-attachments/assets/dc4e611d-95b1-4490-bd79-cd34187a5f47" />
