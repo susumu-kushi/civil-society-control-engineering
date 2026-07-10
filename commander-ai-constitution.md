@@ -478,6 +478,5 @@ Observation
 → Final Proposal
 These revisions emerged through the practical application of the Constitution to AI systems, including comparative analysis of AI constitutions and reasoning frameworks.
 This process may be regarded as one of the earliest case studies in the development of CSCE Evaluation Theory.
-<img width="442" height="600" alt="image" src="https://github.com/user-attachments/assets/5fce564c-b29e-4dce-8df7-4175a32bede7" />
 
 
