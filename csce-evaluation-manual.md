@@ -2,16 +2,26 @@
 
 Official Foundational Document
 
+Version: Ver.1.0
+
 ---
 
 ## Summary
 
-（ここに要約）
+(To be added)
 
 ---
 
 ## Official Document
 
-📄 CSCE Evaluation Manual Ver.1.0 (PDF)
+📄 **CSCE Evaluation Manual Ver.1.0 (PDF)**
 
-[Open PDF](PDF/CSCE_評価マニュアル_Ver1.0.pdf)
+[Open PDF](pdf/CSCE_Evaluation_Manual_Ver1.0.pdf)
+
+---
+
+## Status
+
+Current Official Version
+
+Released: July 2026
