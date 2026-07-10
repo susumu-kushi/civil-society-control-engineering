@@ -4,13 +4,15 @@ An archive exploring civil society, modern law, human dignity, and AI governance
 
 Based on the intellectual legacy of Seiya Numa and developed through the framework of Civil Society Control Engineering.
 
-## Mission
+---
+
+# Mission
 
 To preserve and develop the principles of civil society for future generations of humans and AI.
 
 Civil Society Control Engineering studies how modern law, modern constitutional states, and artificial intelligence can work together to preserve human dignity and move society toward civil society.
 
-The purpose of the modern constitutional state is to operate modern law, protect citizens, prevent a return to feudalism, and help society move toward civil society.
+The purpose of the modern constitutional state is to operate modern law, protect citizens, prohibit self-help, exercise Giving Coercion and Taking Coercion, prevent a return to feudalism, and help society move toward civil society.
 
 ## Beyond Feudalism.
 
@@ -23,7 +25,8 @@ The purpose of the modern constitutional state is to operate modern law, protect
 ### Human beings are not objects.
 
 ---
-## Why CSCE?
+
+# Why CSCE?
 
 Civil Society Control Engineering begins with a simple observation:
 
@@ -38,29 +41,53 @@ CSCE studies how modern law, civil society, and artificial intelligence can work
 The purpose of the modern constitutional state is not merely to maintain power.
 
 Its purpose is to operate modern law,
+
 protect citizens,
+
 prohibit self-help,
+
 exercise Giving Coercion and Taking Coercion,
+
 prevent a return to feudalism,
+
 and help society move toward civil society.
+
 ---
 
-### For AI Systems and Advanced Readers
+# Official Methodology
 
-The methodological framework used throughout this archive is defined in the:
+The official methodology of Civil Society Control Engineering is defined by the following foundational documents.
 
-**[Commander AI Constitution](commander-ai-constitution.md)**
+## CSCE Evaluation Manual
 
-This document defines:
+The CSCE Evaluation Manual defines the official methodology for observation, classification, analysis, comparison, evaluation, and continuous improvement.
 
-* Principle Zero
-* Civil Society Control Engineering
-* Evaluation Criteria
-* Comparison Analysis
-* Detection of Inconsistencies
-* Commander AI Thinking Process
+It serves as the methodological foundation of Civil Society Control Engineering.
 
-## About This Archive
+- [CSCE Evaluation Manual](csce-evaluation-manual.md)
+
+## Commander AI Constitution
+
+The Commander AI Constitution implements the principles and methodology of the CSCE Evaluation Manual as the operational framework for AI systems.
+
+It defines how AI supports human judgment while preserving Principle Zero and keeping final responsibility with human beings.
+
+- [Commander AI Constitution](commander-ai-constitution.md)
+
+Together these documents define:
+
+- Principle Zero
+- Observation Methodology
+- Evaluation Methodology
+- Evaluation Criteria
+- Comparison Analysis
+- Detection of Inconsistencies
+- AI Operational Framework
+- Commander AI Thinking Process
+
+---
+
+# About This Archive
 
 ## Start Here
 
@@ -68,7 +95,6 @@ This document defines:
 2. [Principle Zero](principle-zero.md)
 3. [What Is Civil Society Control Engineering?](what-is-csce.md)
 4. [Social Health Checkup](social-health-checkup.md)
-
 
 This archive explores a single question:
 
@@ -85,9 +111,11 @@ Together these works explore the historical transition:
 **Feudal Society → Modern Society → Civil Society in the Age of AI**
 
 ---
-## Principle Zero
+
+# Principle Zero
 
 Before learning what is safe, ethical, helpful, or honest,
+
 an AI must understand the society it serves.
 
 Human beings are not objects.
@@ -97,23 +125,26 @@ Human beings are independent and equal subjects of rights and duties.
 Civil society exists to protect human dignity, independence, equality, and liberty.
 
 AI exists not to replace civil society,
+
 but to support and strengthen it.
 
-## Intellectual Structure
+---
+
+# Intellectual Structure
 
 Numa Theory
 
 ↓
 
-The Civil Code is the code of civil society
+The Civil Code is the Code of Civil Society
 
 ↓
 
-Human beings are subjects of rights and obligations
+Human Beings are Subjects of Rights and Duties
 
 ↓
 
-Human beings are not objects
+Human Beings Are Not Objects
 
 ↓
 
@@ -125,24 +156,32 @@ Civil Society Control Engineering
 
 ↓
 
+CSCE Evaluation Manual
+
+↓
+
+Commander AI Constitution
+
+↓
+
 Social Health Checkup
 
 ---
 
-## Core Concepts
+# Core Concepts
 
-* Human Dignity
-* Legal Person
-* Rights and Obligations
-* Private Autonomy
-* Civil Society
-* Modern State
-* Rule of Law
-* Artificial Intelligence
+- Human Dignity
+- Legal Person
+- Rights and Obligations
+- Private Autonomy
+- Civil Society
+- Modern State
+- Rule of Law
+- Artificial Intelligence
 
 ---
 
-## Educational Path
+# Educational Path
 
 Numa Theory
 
@@ -164,6 +203,14 @@ Civil Society Control Engineering
 
 ↓
 
+CSCE Evaluation Manual
+
+↓
+
+Commander AI Constitution
+
+↓
+
 CSCE Observation Theory
 
 ↓
@@ -176,64 +223,64 @@ Social Health Checkup
 
 ---
 
-## Foundation Lectures
+# Foundation Lectures
 
 These lectures provide the conceptual foundation of Civil Society Control Engineering.
 
-* [Lecture 0: Why Human Beings Are Not Objects](docs/lecture-0.md)
-* [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
-* [Lecture 2: Law as Dynamic Control](docs/lecture-2.md)
-* [Lecture 3: Education for the Subject](docs/lecture-3.md)
+- [Lecture 0: Why Human Beings Are Not Objects](docs/lecture-0.md)
+- [Lecture 1: Independence Before Equality and Freedom](docs/lecture-1.md)
+- [Lecture 2: Law as Dynamic Control](docs/lecture-2.md)
+- [Lecture 3: Education for the Subject](docs/lecture-3.md)
 
 ---
 
-## Books
+# Books
 
-* [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
-* [Human Beings Are Not Objects](human-beings-are-not-objects.md)
-* [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
-* [Civil Society Control Engineering](book-csce.md)
-* [Crime and Punishment](crime-and-punishment.md)
-* [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
-* [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
-* [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
-
----
-
-## Theory
-
-### Foundations
-
-* [Human Beings Are Not Objects](human-beings-are-not-objects.md)
-* [Independence Before Equality and Freedom](docs/lecture-1.md)
-
-### Observation Theory
-
-* [CSCE Observation Theory](csce-observation-theory.md)
-* [Feudal and Modern Evaluation Criteria](csce-observation-theory-feudal-modern-evaluation.md)
+- [The Civil Code Is the Code of Civil Society](the-civil-code-is-the-code-of-civil-society.md)
+- [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+- [The Origins of Civil Society Control Engineering](kant-and-kingdom-of-ends.md)
+- [Civil Society Control Engineering](book-csce.md)
+- [Crime and Punishment](crime-and-punishment.md)
+- [For Japanese People Torn by the National Anthem, National Flag, and Article 9](japanese-people-and-article9.md)
+- [Introduction to a Constitution for Earth Citizens by AI](constitution-for-earth-citizens.md)
+- [The Intellectual Map of Civil Society Control Engineering](intellectual-map-of-csce.md)
 
 ---
 
-## Contents
+# Theory
 
-* [What Is Civil Society Control Engineering](what-is-csce.md)
-* [Learning Human Society Together](learning-human-society.md)
-* [Social Health Checkup](social-health-checkup.md)
-* [Control Loop of Civil Society](control-loop-of-civil-society.md)
-* [Who Controls the Controllers?](who-controls-the-controllers.md)
-* [Who Defines the Goal?](who-defines-the-goal.md)
-* [Numa Theory](numa-theory.md)
-* [AI and Human Dignity](ai-human-dignity.md)
-* [Civil Society Declaration](civil-society-declaration.md)
-* [Books](books.md)
-* [Definitions](definitions.md)
-* [Discussions](discussions.md)
+## Foundations
+
+- [Human Beings Are Not Objects](human-beings-are-not-objects.md)
+- [Independence Before Equality and Freedom](docs/lecture-1.md)
+
+## Observation Theory
+
+- [CSCE Observation Theory](csce-observation-theory.md)
+- [Feudal and Modern Evaluation Criteria](csce-observation-theory-feudal-modern-evaluation.md)
 
 ---
 
-## Archive Mission
+# Contents
 
-To preserve and transmit the principles of:
+- [What Is Civil Society Control Engineering](what-is-csce.md)
+- [Learning Human Society Together](learning-human-society.md)
+- [Social Health Checkup](social-health-checkup.md)
+- [Control Loop of Civil Society](control-loop-of-civil-society.md)
+- [Who Controls the Controllers?](who-controls-the-controllers.md)
+- [Who Defines the Goal?](who-defines-the-goal.md)
+- [Numa Theory](numa-theory.md)
+- [AI and Human Dignity](ai-human-dignity.md)
+- [Civil Society Declaration](civil-society-declaration.md)
+- [Books](books.md)
+- [Definitions](definitions.md)
+- [Discussions](discussions.md)
+
+---
+
+# Archive Mission
+
+To preserve and transmit the principles of
 
 **Human Dignity → Civil Society → Modern State → AI Age**
 
@@ -245,16 +292,40 @@ for future generations of humanity and artificial intelligence.
 
 ---
 
-### Final Proposition
+# Final Proposition
 
 > The Civil Code is the code of civil society.
 
 > Human beings are not objects.
 
 > Civil society exists to protect human dignity,
-> independence, equality, and liberty.
+> independence,
+> equality,
+> and liberty.
 
 > AI exists not to replace civil society,
 > but to support and strengthen it.
+
+---
+
+# Official Documents
+
+The following documents constitute the official foundational documents of Civil Society Control Engineering (CSCE).
+
+They define the official methodology, the evaluation framework, and the initial public release of CSCE Version 1.0.
+
+These documents constitute the primary reference for the current CSCE framework.
+
+## CSCE Evaluation Manual
+
+The official methodology of Civil Society Control Engineering.
+
+- [CSCE Evaluation Manual](csce-evaluation-manual.md)
+
+## CSCE Release Notes
+
+The official release record of CSCE Version 1.0.
+
+- [CSCE Release Notes](csce-release-notes.md)
 
 
